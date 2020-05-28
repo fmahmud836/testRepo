@@ -1,0 +1,24 @@
+{
+  "name": "myrepo",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": " ",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmahmud836/testRepo.git"
+  },
+  "author": "Fahim Mahmud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmahmud836/testRepo/issues"
+  },
+  "homepage": "https://github.com/fmahmud836/testRepo#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
